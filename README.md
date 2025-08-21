@@ -205,7 +205,7 @@ EXTRA_FIXED_RESIDUES = []  # Add residue numbers to always fix
 
 ## 📧 Contact
 
-[Your contact information]
+e.leen@leeds.ac.uk
 
 ## 📄 License
 
